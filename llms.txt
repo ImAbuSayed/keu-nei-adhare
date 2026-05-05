@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Keu Nei Adhare |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/keu-nei-adhare/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> নিঃশব্দ এই অন্ধকারে কেউ নেই তো আর
+> অদৃশ্য এক বাঁধন শুধু প্রেমের হাহাকার
+> ছায়া হয়ে মিশে আছো আত্মার সীমানায়
+> খুঁজে ফিরি আলো শুধু তোমারি ইশারায়
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
