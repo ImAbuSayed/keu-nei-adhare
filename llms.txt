@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/keu-nei-adhare/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Keu Nei Adhare](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
