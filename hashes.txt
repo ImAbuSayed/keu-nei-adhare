@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Keu Nei Adhare
+
+This log tracks the cryptographic history and versioning for the song **Keu Nei Adhare** (keu-nei-adhare).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:33:11.132847 | `v1` | `b0628df4d00179287831438d2f3e3a052bcf919012c901d3af2e5084dcd77c01` | `586ca7673db4cb3eb37ceca8f17131f29dbc756cc76f9ea094b481e142b45f83` | `2026-05-08_keu-nei-adhare-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
